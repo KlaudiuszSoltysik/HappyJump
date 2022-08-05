@@ -1,1 +1,8 @@
-# HappyJump
+HappyJump
+
+Simple game for my university class made in C++ with SFML.
+
+As a player, your job is to score as much points as you can without falling down or touching enemies
+
+Gameplay:
+https://www.youtube.com/watch?v=FDo_D2t8MqU
